@@ -1,0 +1,3 @@
+hi this is my first file in nano 
+hope i master with next 
+

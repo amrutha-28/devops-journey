@@ -1,0 +1,4 @@
+i am learning vim!
+everything is new for me
+i am editing this file now
+

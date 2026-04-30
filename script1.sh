@@ -1,0 +1,11 @@
+#!/bin/bash
+echo"================================"
+echo "   My First Shell Script!"
+echo "   Written by Amrutha"
+echo "==============================="
+echo ""
+echo "Today's date is: $(date)"
+echo "I am logged in as: $(whoami)"
+echo "My current location is: $(pwd)"
+echo ""
+echo "Script completed successfully!"
